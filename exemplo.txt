@@ -1,5 +1,1 @@
-meu primeiro commit
-
-segundo commit
-
-terceiro commit
+finalizando minha primeira aula de git
